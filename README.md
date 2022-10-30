@@ -1,4 +1,4 @@
-# Google Clone
+# Goople - A Google UI clone
 
 [View the demo](https://jt-google-homepage-clone.netlify.app/) deployed through Netlify
 
